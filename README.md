@@ -1,1 +1,2 @@
-# prokom
+# Pemrograman Komputer
+## Pendahuluan
