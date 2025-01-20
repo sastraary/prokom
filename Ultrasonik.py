@@ -22,7 +22,7 @@ GPIO.setup(GREEN_LED_PIN, GPIO.OUT)
 
 # Configure ThingsBoard MQTT
 THINGSVERSE_HOST = 'thingsboard.cloud' #
-ACCESS_TOKEN = 'xxxxxxxxxxxxxxxxxxxx' #masukkan akses token yang diberikan di thingsboard
+ACCESS_TOKEN = 'xxxxxxxxxxxxxxxxxxxx' #Ganti dengan acces token anda
 
 # Initialize MQTT Client
 client = mqtt.Client()
