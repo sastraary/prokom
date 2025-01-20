@@ -1,2 +1,8 @@
 # Konektivitas Raspi
 # VCC -> 3.3V
+# TRIG -> 16(GPIO23)
+# ECHO -> 18(GPIO24)
+# GND -> GND
+# LED RED -> 11(GPIO17)
+# LED YELOW -> 13(GPIO27)
+# LED GREEN -> 15(GPIO22)
